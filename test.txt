@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 file test.txt
 nona zarima 1804111010024
 =======
+=======
+Fahmi Ardiansyah 1804111010061
+>>>>>>> main
 
 file test.txt
 Nashrullah 1804111010063
