@@ -1,2 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+file test.txt
+nona zarima 1804111010024
+=======
+
+file test.txt
+Nashrullah 1804111010063
+>>>>>>> 1804111010063
+=======
 file test.txt
 Khairul Anwar 1804111010065
+>>>>>>> 1804111010065
