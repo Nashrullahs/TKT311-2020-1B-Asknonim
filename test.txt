@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+Fahmi Ardiansyah 1804111010061
 
+=======
+file test.txt
+nona zarima 1804111010024
+>>>>>>> 1804111010024
